@@ -10,7 +10,7 @@ Completate le attività fare un merge sulla branch principale.
 - [ ] Aggiungere e configurare React Router
 - [ ] Configurare il router per gestire una pagina di errore
 - [ ] Installare e configurare Chakra UI
-- [ ] Insstallare e configurare Axios
+- [ ] Installare e configurare Axios
 - [ ] Recuperare l'api e la chiave per accedre ai dati da <https://www.omdbapi.com> (potete usare la chiave vecchia cercando nelle vostre email 'omdb') oppure attivarne una nuova (<https://www.omdbapi.com/apikey.aspx>).
 - [ ] Invitatemi nel vostro repo creato con il fork.
   
